@@ -4,6 +4,8 @@ An interactive prototype from Group 7’s Business Process Improvement project a
 
 ## Run the demo
 
+[Open the live prototype on GitHub Pages](https://saurabhthakre.github.io/fortis-discharge-flow-prototype/)
+
 Open `index.html` in a modern browser. The prototype runs as a single HTML file with no build step. Changes stay in the current browser. Use **Reset demo** to restore the sample cases.
 
 ## Try the patient’s live bill
